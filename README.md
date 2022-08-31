@@ -1,2 +1,2 @@
-This readme file is to describe 
+#!/bin/bash
 how this project works
